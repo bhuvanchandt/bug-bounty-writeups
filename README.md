@@ -119,6 +119,14 @@ If you have found an issue in a system you are authorized to test, my approach i
 
 ---
 
+## Contributing
+
+New writeups and improvements are welcome. See
+[CONTRIBUTING.md](CONTRIBUTING.md) for the template, the sanitization rules, and
+how to submit.
+
+---
+
 ## License
 
 [MIT](LICENSE) © Bhuvan Chand Thangudu
