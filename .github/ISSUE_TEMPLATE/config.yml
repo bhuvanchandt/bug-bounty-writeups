@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability (private)
+    url: https://github.com/bhuvanchandt/bug-bounty-writeups/security/advisories/new
+    about: Report a problem with a published writeup privately.
